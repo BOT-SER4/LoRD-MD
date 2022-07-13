@@ -26,7 +26,7 @@ const { smsg, formatp, tanggal, formatDate, getTime, isUrl, sleep, clockString, 
 const fvid = {
 	 key: { 
           fromMe: false,
-	      participant: "0@s.whatsapp.net", 
+	      participant: "919072501166@s.whatsapp.net", 
 	     remoteJid: "120363040549014341@g.us" 
                 },
 	 message: { 
